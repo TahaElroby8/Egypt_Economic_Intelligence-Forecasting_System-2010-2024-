@@ -1,6 +1,6 @@
-# Egypt_Economic_Intelligence-Forecasting_System-2010-2024
+# Online Retail: Gift Products (2009-2010)
 # project Idea 
-Explore 15 years of Egypt’s economy with interactive dashboards, Python forecasting, and deep insights into GDP, inflation, trade, and population trends.
+The data set named Online Retail II was obtained from a UK-based online store. Includes sales between 01/12/2009 - 09/12/2010.
 # Team Mwmbers:
 Ahmed Bakr Elsayed Salama
 Malak Mohamed Kamal Hefny
@@ -19,7 +19,7 @@ Taha Atta Elroby Abbas
 # KPIs (Key Performance Indicators)
 
 # Instructor  
-* Mohamed Yasser
+* Mahmoud Emad
 # Project Files 
 You can find the full project files here: 
  https://drive.google.com/drive/folders/1CkflxTVFeS6XtKXVIr6n5PzxP6LZnwMP?usp=drive_link
