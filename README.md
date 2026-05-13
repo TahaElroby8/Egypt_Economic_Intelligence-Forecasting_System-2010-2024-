@@ -24,3 +24,6 @@ The data set named Online Retail II was obtained from a UK-based online store. I
 You can find the full project files here: 
  https://drive.google.com/drive/folders/1CkflxTVFeS6XtKXVIr6n5PzxP6LZnwMP?usp=drive_link
  
+You can find the full project Dashboard on Tableau Puplic here:
+https://public.tableau.com/views/OnlineRetailDashboard_17786882608950/HomePage?:language=en- US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+ 
