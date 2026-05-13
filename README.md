@@ -1,7 +1,7 @@
 # Online Retail: Gift Products (2009-2010)
 # project Idea 
 The data set named Online Retail II was obtained from a UK-based online store. Includes sales between 01/12/2009 - 09/12/2010.
-# Team Mwmbers:
+# Team Members:
 -Ahmed Bakr Elsayed Salama
 -Malak Mohamed Kamal Hefny
 -Mostafa Hassan Sayed Mansour Bashandy
